@@ -2,14 +2,13 @@
 
 ### Overview :
 Kotlin-based Android news app helps users stay up-to-date on the latest headlines.
+I used News API service and displayed data retrieved from the service. Implemented MVVM architecture. My Code is divided into separate files and packages, Possible errors are handled, also Image Display
 
 ### Features :
-* Display News in various categories 
-* Dark mode
-* Share news with friends
+* Display News 
+* Share news
 * Browse news
-* Bookmark news to read later/ Delete news
-* Listen news with provided Text-To-Speech service
+* Bookmark news
 
  ### Screenshots : 
  
@@ -33,7 +32,6 @@ Kotlin-based Android news app helps users stay up-to-date on the latest headline
  * Kotlin
  * XML
  * MVVM Architecture
- * Room database library
  * Android Studio
  * Third party libraries like [retrofit](https://square.github.io/retrofit/), [picasso](https://square.github.io/picasso/), [shimmer](https://github.com/facebook/shimmer-android).
 
@@ -45,10 +43,6 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
     API_KEY="<YOUR_API_KEY>"
  * Rebuild app
  
-
-### Application link : <a href="https://drive.google.com/file/d/1u0A4mCkY98cfavE32c6GH_bVp0v9wujr/view?usp=sharing">**Click here to download apk**</a>
-
-  
 ### 📝 License 
 
 Copyright (c) 2024 Shovan Kumar Das
